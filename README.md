@@ -15,6 +15,20 @@ To run the program, use the following command in the project directory:
 go run main.go
 ```
 
+### Compile the program
+To compile the program, use the following command in the project directory:
+
+```bash
+go build main.go
+```
+
+### Run the compiled program
+To run the compiled program, use the following command in the project directory:
+
+```bash
+./main
+```
+
 ## Project Structure
 
 - `main.go` - The main entry point of the application
